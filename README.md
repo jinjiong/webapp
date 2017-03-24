@@ -8,4 +8,5 @@
 - flexible.js是淘宝用来设计html标签中的字体大小的 
 - mui.min.js是框架mui中自带的js
 >imgs 存放项目中的小图标等图片
+
 >upload是存放替换图片的文件夹
